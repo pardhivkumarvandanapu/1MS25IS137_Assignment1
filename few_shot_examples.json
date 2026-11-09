@@ -1,0 +1,32 @@
+{
+  "examples": [
+    {
+      "input": "Analyze a research paper about artificial intelligence in healthcare.",
+      "expected_output": {
+        "problem_statement": "The paper investigates challenges in applying AI to healthcare.",
+        "primary_methodology": "Machine learning models are used to analyze healthcare data.",
+        "algorithmic_contributions": "The approach uses data processing and predictive algorithms.",
+        "key_findings": "AI can support healthcare professionals in decision-making.",
+        "future_work": [
+          "Improve prediction accuracy.",
+          "Test the system on larger datasets.",
+          "Optimize the model for faster processing."
+        ]
+      }
+    },
+    {
+      "input": "Analyze a research paper about machine learning in cybersecurity.",
+      "expected_output": {
+        "problem_statement": "The paper addresses the detection of cybersecurity threats.",
+        "primary_methodology": "Machine learning techniques analyze network activity.",
+        "algorithmic_contributions": "Classification algorithms identify suspicious patterns.",
+        "key_findings": "Machine learning can assist in identifying potential threats.",
+        "future_work": [
+          "Improve threat detection.",
+          "Reduce false alarms.",
+          "Evaluate performance on real-world datasets."
+        ]
+      }
+    }
+  ]
+}
