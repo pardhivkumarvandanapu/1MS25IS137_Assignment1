@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Academic Research Paper Analyzer and Architecture Generator
 
-# Run and deploy your AI Studio app
+Project Overview
 
-This contains everything you need to run your app locally.
+This project is an AI-powered research assistant designed to analyze academic research papers and generate structured summaries and system architecture insights.
 
-View your app in AI Studio: https://ai.studio/apps/e0911825-289b-4cc0-b3e4-30e60894f607
+Objectives
 
-## Run Locally
+* Analyze academic research papers using AI.
+* Identify research problems and methodologies.
+* Extract important findings and contributions.
+* Generate system architecture insights.
+* Improve understanding of research documents.
 
-**Prerequisites:**  Node.js
+Technologies Used
 
+* Google AI Studio
+* Gemini AI
+* React
+* TypeScript
+* JavaScript
+* JSON
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Key Features
+
+* AI-based research paper analysis.
+* Automated information extraction.
+* Few-shot prompting examples.
+* Structured research summaries.
+* Architecture generation support.
+
+Working Methodology
+
+1. User provides research-related input.
+2. The system processes the input.
+3. AI analyzes the research information.
+4. Important findings are extracted.
+5. The system generates structured output.
+
+Conclusion
+
+The Academic Research Paper Analyzer and Architecture Generator demonstrates how artificial intelligence can simplify academic research analysis and help generate meaningful architecture insights.
+
+Author
+
+Vandanapu Pardhiv Kumar
